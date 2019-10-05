@@ -2,7 +2,7 @@
 
 2. add an config.js in a config folder in the src folder
 
-3. export a variable called apiKey holding your api key.
+3. in config.js export a variable called apiKey holding your api key.
 
 4. npm install
 5. npm start
